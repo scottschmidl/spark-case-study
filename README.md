@@ -22,3 +22,5 @@ We suggest reading in the data into spark RDDs, not directly into Dataframes.  Y
 This will be the most challenging dataset you've had to work with up to this point.  The data is somewhat large, and tweets are a complicated and messy source of information. Your first steps should be to understand which fields you'll be leveraging.  Once you've read in the data, start by doing a ```take(1)``` to get a feel for what a tweet JSON string looks like.
 
 Also note that data is messy so you'll need to do a lot of checks and filter out inconsistent data.  <b>Being able to adjust based on error messages is an important skill, consider this a chance to practice!</b>
+
+#### Repo Initially Forked from alro5921. Due to Forking Repo was Initially Private.
